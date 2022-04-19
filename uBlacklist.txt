@@ -7,9 +7,9 @@
 *://www.its*.com/*
 *://www.cxy*.net/*
 *://*.cc/*
-title/Ğ¡.(°Ù¿Æ|ÖªÊ¶)Íø/
-title/.* - Ğ¡.(°Ù¿Æ|ÖªÊ¶)Íø/
-title/*¿Æ¼¼Íø/
+title/å°.(ç™¾ç§‘|çŸ¥è¯†)ç½‘/
+title/.* - å°.(ç™¾ç§‘|çŸ¥è¯†)ç½‘/
+title/*ç§‘æŠ€ç½‘/
 *://www.csdn.net/*
 *://weibo.com/*
 *://www.jd.com/*
@@ -117,3 +117,29 @@ title/*¿Æ¼¼Íø/
 *://blog.qiaohewei.cc/*
 *://cxymm.net/*
 *://jeremybai.github.io/*
+*://www.its301.com/*
+*://www.its203.com/*
+*://www.pythonxs.com/*
+*://wenku.baidu.com/*
+*://download.csdn.net/*
+*://video.sogou.com/*
+*://m.pangzitv.com/*
+*://new.qq.com/*
+*://z.sogou.com/*
+*://g16.baidu.com/*
+*://www.91fafa.com/*
+*://www.its404.com/*
+*://www.rbcty.com/*
+*://www.msfxt.com/*
+*://www.23cpc.com/*
+*://373415.com/*
+*://www.eamimi.com/*
+*://www.jdyhh.com/*
+*://www.maan1.com/*
+*://www.zhangshengrong.com/*
+*://its301.com/*
+*://yq.fxeye1.com/*
+*://ksou.cc/*
+*://mississippifaithinaction.org/*
+*://icode9.com/*
+*://cxyzjd.com/*
