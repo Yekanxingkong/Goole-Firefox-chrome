@@ -1,2 +1,4 @@
-ip.src ==  and ip.dst != 
+ip.src == 192.168.2.101 and ip.dst != 192.168.2.101
+
+
 iptables -a POSTROUTING -m mac --mac-source  -j REJECT
