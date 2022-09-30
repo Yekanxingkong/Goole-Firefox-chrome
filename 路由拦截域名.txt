@@ -117,3 +117,12 @@ otyfastapi.niuaniua.com.w.kunlunca.com
 ohzsdktjapi.niuaniua.com.w.kunlungr.com
 vcode-od.vivo.com.cn
 punkspider-api-elb-646253589.us-east-2.elb.amazonaws.com
+connectivitycheck.android.com
+ohzsdktjapi.niuaniua.com.w.kunlungr.com
+av1.xdrig.com.td.fusion.iaas.jdcloud.com
+ipapi.qun7.com.m.alikunlun.com
+pool.ntp.org
+alog-default.umeng.com
+update.dangbei.net.w.kunlunar.com
+ntp.ntsc.ac.cn
+otyfastapi.niuaniua.com.w.kunlunca.com
