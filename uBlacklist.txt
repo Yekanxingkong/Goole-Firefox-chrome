@@ -169,3 +169,5 @@ title/*科技网/
 *://m.doxinyi.com/*
 *://younai.mfweb.club/*
 *://www.eternalelectronics.com/*
+*://zh.farrautomation.com/*
+*://www.howtoip.com/*
