@@ -5,3 +5,9 @@ https://easylist-downloads.adblockplus.org/easylistchina.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
 https://gitee.com/halflife/list/raw/master/ad.txt
 https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
+
+https://anti-ad.net/easylist.txt
+https://gitee.com/halflife/list/raw/master/ad.txt
+https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
+https://gitee.com/cjx82630/cjxlist/raw/master/cjx-ublock.txt
