@@ -1,0 +1,26 @@
+AdGuard Simplified Domain Names filter
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+
+AdAway
+https://adaway.org/hosts.txt
+
+EasyPrivacy
+https://easylist-downloads.adblockplus.org/easyprivacy.txt
+
+I don’t care about cookies
+https://www.i-dont-care-about-cookies.eu/abp/
+
+EasyList China
+https://easylist-downloads.adblockplus.org/easylistchina.txt
+
+anti-ad.net
+https://anti-ad.net/easylist.txt
+
+https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
+https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/
+https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
+
+
+
